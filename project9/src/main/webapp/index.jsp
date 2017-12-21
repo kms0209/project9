@@ -8,6 +8,6 @@
     <c:otherwise>
 		<jsp:forward page="/index"/>
     </c:otherwise>
-
+adsfdsaf
   
 </c:choose>
