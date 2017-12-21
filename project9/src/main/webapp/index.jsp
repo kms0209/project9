@@ -5,7 +5,7 @@
     <c:when test="${sessionScope.userid eq null}">
 		<jsp:forward page="/memberLogin"/>
     </c:when>
-    <c:otherwise>f
+    <c:otherwise>
 		<jsp:forward page="/index"/>
     </c:otherwise>
 
